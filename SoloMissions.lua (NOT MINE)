@@ -115,3 +115,4 @@ event.register_handler(menu_event.ScriptsReloaded, function()
         patcher:disable_patch()
     end
 end)
+
